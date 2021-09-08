@@ -1,0 +1,18 @@
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\bin\Debug\R Ohm.exe.config
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\bin\Debug\R Ohm.exe
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\bin\Debug\R Ohm.pdb
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R Ohm.csprojResolveAssemblyReference.cache
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R_Ohm.Form1.resources
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R_Ohm.Properties.Resources.resources
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R Ohm.csproj.GenerateResource.Cache
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R Ohm.exe
+c:\users\armin m\documents\visual studio 2015\Projects\R Ohm\R Ohm\obj\Debug\R Ohm.pdb
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\bin\Debug\R Ohm.exe.config
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R Ohm.exe
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R Ohm.pdb
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\bin\Debug\R Ohm.exe
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\bin\Debug\R Ohm.pdb
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R Ohm.csprojResolveAssemblyReference.cache
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R_Ohm.Form1.resources
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R_Ohm.Properties.Resources.resources
+E:\azade\my project\code\R_ohm\R Ohm\R Ohm\obj\Debug\R Ohm.csproj.GenerateResource.Cache
